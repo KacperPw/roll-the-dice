@@ -9,4 +9,4 @@ if roll == "Yes":
 elif roll == "No":
     exit
 else:
-    print("Wprowadziłeś niepoprawną komendę")
+    print("Wrong command")
